@@ -1,9 +1,9 @@
 <?php
 
-$host = "localhost";
+$host = "sql305.infinityfree.com";
 $dbname = "ecotrade";
-$username = "root";
-$password = "Siyab0ng@";
+$username = "if0_42127634";
+$password = "wShNIq4ta1tY6p";
 
 try {
 
